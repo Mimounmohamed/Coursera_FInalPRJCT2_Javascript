@@ -246,3 +246,78 @@
     font-size: 0.8rem;
     font-weight: bold;
   }
+
+
+  .contact-hero {
+    position: relative;
+    min-height: 90vh;
+    background-image: url('city.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 0 60px;
+  }
+  
+  .contact-text {
+    max-width: 400px;
+  }
+  
+  .contact-text h1 {
+    font-size: 2.8rem;
+    font-weight: 800;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.6);
+  }
+  
+  .contact-text p {
+    font-size: 1.1rem;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+  }
+  
+  .contact-form {
+    background-color: rgba(0, 0, 0, 0.45);
+    padding: 30px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 320px;
+    margin-left: auto;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    padding: 10px 14px;
+    border: none;
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: white;
+    font-size: 0.9rem;
+    outline: none;
+  }
+  
+  .contact-form input::placeholder,
+  .contact-form textarea::placeholder {
+    color: #e0e0e0;
+  }
+  
+  .contact-form textarea {
+    resize: vertical;
+  }
+  
+  .submit-btn {
+    background-color: #17b897;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 0.95rem;
+  }
+  
+  .submit-btn:hover {
+    opacity: 0.85;
+  }
