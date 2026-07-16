@@ -6,12 +6,12 @@
         "cities": [
           {
             "name": "Sydney, Australia",
-            "imageUrl": "https://picsum.photos/seed/sydney/400/300",
+            "imageUrl": "https://loremflickr.com/400/300/sydney,operahouse",
             "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
           },
           {
             "name": "Melbourne, Australia",
-            "imageUrl": "https://picsum.photos/seed/melbourne/400/300",
+            "imageUrl": "https://loremflickr.com/400/300/melbourne,australia,city",
             "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
           }
         ]
@@ -22,12 +22,12 @@
         "cities": [
           {
             "name": "Tokyo, Japan",
-            "imageUrl": "https://picsum.photos/seed/tokyo/400/300",
+            "imageUrl": "https://loremflickr.com/400/300/tokyo,japan,city",
             "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
           },
           {
             "name": "Kyoto, Japan",
-            "imageUrl": "https://picsum.photos/seed/kyoto/400/300",
+            "imageUrl": "https://loremflickr.com/400/300/kyoto,temple,japan",
             "description": "Known for its historic temples, gardens, and traditional tea houses."
           }
         ]
@@ -38,12 +38,12 @@
         "cities": [
           {
             "name": "Rio de Janeiro, Brazil",
-            "imageUrl": "https://picsum.photos/seed/rio/400/300",
+            "imageUrl": "https://loremflickr.com/400/300/rio,brazil,beach",
             "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
           },
           {
             "name": "São Paulo, Brazil",
-            "imageUrl": "https://picsum.photos/seed/saopaulo/400/300",
+            "imageUrl": "https://loremflickr.com/400/300/saopaulo,brazil,skyline",
             "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
           }
         ]
@@ -53,13 +53,13 @@
       {
         "id": 1,
         "name": "Angkor Wat, Cambodia",
-        "imageUrl": "https://picsum.photos/seed/angkorwat/400/300",
+        "imageUrl": "https://loremflickr.com/400/300/angkorwat,cambodia,temple",
         "description": "A UNESCO World Heritage site and the largest religious monument in the world."
       },
       {
         "id": 2,
         "name": "Taj Mahal, India",
-        "imageUrl": "https://picsum.photos/seed/tajmahal/400/300",
+        "imageUrl": "https://loremflickr.com/400/300/tajmahal,india",
         "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
       }
     ],
@@ -67,13 +67,13 @@
       {
         "id": 1,
         "name": "Bora Bora, French Polynesia",
-        "imageUrl": "https://picsum.photos/seed/borabora/400/300",
+        "imageUrl": "https://loremflickr.com/400/300/borabora,beach,tropical",
         "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
       },
       {
         "id": 2,
         "name": "Copacabana Beach, Brazil",
-        "imageUrl": "https://picsum.photos/seed/copacabana/400/300",
+        "imageUrl": "https://loremflickr.com/400/300/copacabana,beach,brazil",
         "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
       }
     ]
